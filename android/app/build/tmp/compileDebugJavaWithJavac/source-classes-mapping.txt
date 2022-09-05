@@ -1,0 +1,14 @@
+com/autobots/ReactNativeFlipper.java
+ com.autobots.ReactNativeFlipper
+ com.autobots.ReactNativeFlipper$1
+ com.autobots.ReactNativeFlipper$2
+ com.autobots.ReactNativeFlipper$2$1
+com/autobots/BuildConfig.java
+ com.autobots.BuildConfig
+com/autobots/MainActivity.java
+ com.autobots.MainActivity
+com/autobots/MainApplication.java
+ com.autobots.MainApplication
+ com.autobots.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
