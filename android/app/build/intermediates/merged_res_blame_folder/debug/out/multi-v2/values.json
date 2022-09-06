@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tayanchon/Desktop/work-space/project-rn/autoworks/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/tayanchon/Desktop/work-space/workshop/fe/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
-                {
-                    "source": "/Users/tayanchon/Desktop/work-space/project-rn/autoworks/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "234"
-                    },
-                    "to": {
-                        "startLines": "364",
-                        "startColumns": "4",
-                        "startOffsets": "25612",
-                        "endLines": "367",
-                        "endColumns": "12",
-                        "endOffsets": "25792"
-                    }
-                },
                 {
                     "source": "/Users/tayanchon/.gradle/caches/transforms-3/7cdf8de9c37004713d4017747f452054/transformed/jetified-react-native-0.65.1/res/values/values.xml",
                     "from": {
@@ -116,20 +97,39 @@
                     }
                 },
                 {
-                    "source": "/Users/tayanchon/Desktop/work-space/project-rn/autoworks/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/tayanchon/Desktop/work-space/workshop/fe/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
                     },
                     "to": {
-                        "startLines": "262,263",
-                        "startColumns": "4,4",
-                        "startOffsets": "16930,16994",
-                        "endColumns": "63,68",
-                        "endOffsets": "16989,17058"
+                        "startLines": "293",
+                        "startColumns": "4",
+                        "startOffsets": "19072",
+                        "endColumns": "45",
+                        "endOffsets": "19113"
+                    }
+                },
+                {
+                    "source": "/Users/tayanchon/Desktop/work-space/workshop/fe/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "364",
+                        "startColumns": "4",
+                        "startOffsets": "25612",
+                        "endLines": "367",
+                        "endColumns": "12",
+                        "endOffsets": "25792"
                     }
                 },
                 {
@@ -152,20 +152,20 @@
                     }
                 },
                 {
-                    "source": "/Users/tayanchon/Desktop/work-space/project-rn/autoworks/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/tayanchon/Desktop/work-space/workshop/fe/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "45",
-                        "endOffsets": "57"
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
                     },
                     "to": {
-                        "startLines": "293",
-                        "startColumns": "4",
-                        "startOffsets": "19072",
-                        "endColumns": "45",
-                        "endOffsets": "19113"
+                        "startLines": "262,263",
+                        "startColumns": "4,4",
+                        "startOffsets": "16930,16994",
+                        "endColumns": "63,68",
+                        "endOffsets": "16989,17058"
                     }
                 }
             ]

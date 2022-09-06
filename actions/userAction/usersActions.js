@@ -25,6 +25,7 @@ export const createUser = (name, email) => async (dispatch) => {
         type: FINDALL_USER,
         payload: res.data,
       });
+      return res.data
     } catch (err) {
       console.log('err--->',err)
      
@@ -33,9 +34,7 @@ export const createUser = (name, email) => async (dispatch) => {
 
   export const updateUser = (id, data) => async (dispatch) => {
     try {
-      console.log('action----',id,data)
       const res = await UserDataService.updateUser(id, data);
-      console.log('res------>',res)
       dispatch({
         type: UPDATE_USER,
         payload: { users: res.data },
